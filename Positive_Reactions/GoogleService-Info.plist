@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704493098136-7gdts7qt624pq9lkn2efq5mmmfp3ec7h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704493098136-7gdts7qt624pq9lkn2efq5mmmfp3ec7h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiNr-QMd_y_SjmBqIBUik6jayToi-hLs8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704493098136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Appcrates.Positive-Reactions.ios</string>
+	<key>PROJECT_ID</key>
+	<string>positive-reaction</string>
+	<key>STORAGE_BUCKET</key>
+	<string>positive-reaction.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704493098136:ios:4f73ce07eea0e32dd72ced</string>
+</dict>
+</plist>
